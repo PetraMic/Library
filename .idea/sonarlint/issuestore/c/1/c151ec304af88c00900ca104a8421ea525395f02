@@ -1,0 +1,16 @@
+
+W
+java:S1141C"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8ÛÂ¤ê1
+D
+java:S2189$""Add an end condition to this loop.(˜ïˆÿÿÿÿÿ8Ÿ”í¤ê1
+L	java:S106("+Replace this use of System.out by a logger.(•Ìó°úÿÿÿÿ8éÂ¤ê1
+o
+java:S37765"RRefactor this method to reduce its Cognitive Complexity from 20 to the 15 allowed.(“–ış8ïÂ¤ê1
+W
+java:S11615":Add the "@Override" annotation above this method signature(“–ış8ğÂ¤ê1
+Y
+java:S3972>"7Move this "if" to a new line or add the missing "else".(‚‚…½ûÿÿÿÿ8÷Â¤ê1
+G	java:S106?"+Replace this use of System.out by a logger.(¿§²±8ùÂ¤ê1
+L	java:S106W"+Replace this use of System.out by a logger.(•Ìó°úÿÿÿÿ8üÂ¤ê1
+L
+java:S20936"*Change this "try" to a try-with-resources.(¡»¢üùÿÿÿÿ8ıÂ¤ê1

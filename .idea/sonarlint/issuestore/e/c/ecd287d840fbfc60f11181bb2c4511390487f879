@@ -1,0 +1,5 @@
+
+j
+java:S3824"HReplace this "Map.containsKey()" with a call to "Map.computeIfAbsent()".(»î½áûÿÿÿÿ8å‘í¤ê1
+E	java:S106T"+Replace this use of System.out by a logger.(¹¦…‡úÿÿÿÿ
+C	java:S131Y""Add a default case to this switch.(ë´åÝþÿÿÿÿ8ô‘í¤ê1
